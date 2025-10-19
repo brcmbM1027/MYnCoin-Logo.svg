@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="black"/>
+  <circle cx="256" cy="256" r="230" stroke="#D4AF37" stroke-width="6" fill="none"/>
+  <text x="50%" y="25%" fill="url(#goldGrad)" text-anchor="middle"
+        font-family="Arial Black, sans-serif" font-size="52">MYnCoin</text>
+  <text x="50%" y="55%" fill="url(#goldGrad)" text-anchor="middle"
+        font-family="Arial Black, sans-serif" font-size="64">MYN</text>
+  <text x="50%" y="88%" fill="url(#goldGrad)" text-anchor="middle"
+        font-family="Arial Black, sans-serif" font-size="32">MYⁿ TOKEN (MYN)</text>
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+</svg>
